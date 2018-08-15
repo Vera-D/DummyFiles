@@ -1,6 +1,6 @@
 # ReadMe for File Validator
 ## This directory contains dll files written in C# for the Hyb&Seq file validator
-## To run the validator on windows:
+### To run the validator on windows:
 1. Save a fasata file to the input_files directory
 2. Click on the runValidator.bat file
 
